@@ -5,4 +5,11 @@ using wireshark to show packet sniffing inside my device on http websites. By us
   -HTTP (port 80)
   -TCP
 
-  
+#Outakes
+  -finding out how to read and filter out packets related to my IP address
+  -Being able to set up my own filters based on my purpose
+
+#Tools
+  -Programiz.com (compiler for html/css)
+  -wireshark(packet sniffing)
+  -Github(documentation)
